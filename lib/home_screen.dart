@@ -103,7 +103,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("AI Quiz Generator")),
+      appBar: AppBar(title: Text("AI Quiz Generator ")),
       body: Padding(
         padding: EdgeInsets.all(16.0),
         child: Column(
